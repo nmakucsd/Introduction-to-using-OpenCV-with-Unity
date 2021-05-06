@@ -1,0 +1,42 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/nickmak/Documents/Programming/GitHub/CSE 199/Introduction-to-using-OpenCV-with-Unity/Starter/Python/opencv/modules/highgui/test/test_gui.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_highgui",
+				"AccuracyTest"
+			]
+		},
+		{
+			"file" : "/Users/nickmak/Documents/Programming/GitHub/CSE 199/Introduction-to-using-OpenCV-with-Unity/Starter/Python/opencv/modules/highgui/test/test_main.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_highgui",
+				"AccuracyTest"
+			]
+		},
+		{
+			"file" : "/Users/nickmak/Documents/Programming/GitHub/CSE 199/Introduction-to-using-OpenCV-with-Unity/Starter/Python/opencv/modules/highgui/test/test_precomp.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_highgui",
+				"AccuracyTest"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"Main",
+			"opencv_highgui",
+			"AccuracyTest"
+		],
+		"name" : "opencv_test_highgui"
+	}
+}

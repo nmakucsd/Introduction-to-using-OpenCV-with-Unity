@@ -1,0 +1,5 @@
+{
+    "python.linting.enabled": true,
+    "python.formatting.provider": "black",
+    "python.pythonPath": "C:\\Users\\nickmak\\opt\\anaconda3\\python.app"
+}
